@@ -1,5 +1,5 @@
 {
-  "name": "@myfe/myui-core",
+  "name": "myui-core",
   "version": "0.0.1",
   "description": "core less files for myui",
   "main": "index.less",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.sankuai.com/myfe/myui-core.git"
+    "url": "git@github.com:MYFE-React-Component/myui-core.git"
   },
   "keywords": [
     "less",
