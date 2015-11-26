@@ -1,6 +1,6 @@
 {
   "name": "myui-core",
-  "version": "0.0.2",
+  "version": "0.0.21",
   "description": "core less files for myui",
   "main": "index.less",
   "scripts": {
