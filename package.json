@@ -1,5 +1,5 @@
 {
-  "name": "myui-core",
+  "name": "rs-ui-core",
   "version": "0.1.0",
   "description": "core less files for myui",
   "main": "index.less",
@@ -8,13 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:MYFE-React-Component/myui-core.git"
+    "url": "git@github.com:react-salt/rs-ui-core.git"
   },
   "keywords": [
     "less",
-    "cat",
-    "myui",
-    "react"
+    "react",
+    "bootstrap"
   ],
   "author": "yanweiqing",
   "license": "MIT"

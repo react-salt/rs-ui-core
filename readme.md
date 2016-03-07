@@ -1,4 +1,3 @@
-# Core for MYUI
+# Core for React Salt Component
 
-* 基于Bootstrap的配置中心
-* 24栅格系统
+* Based on Bootstrap Less Ststem
